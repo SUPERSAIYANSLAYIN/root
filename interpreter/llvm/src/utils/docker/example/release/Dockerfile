@@ -11,7 +11,7 @@
 # Replace FIXMEs to prepare your own image.
 
 # FIXME: Replace 'ubuntu' with your base image.
-FROM ubuntu
+FROM ubuntu:groovy-20210325
 
 # FIXME: Change maintainer name.
 LABEL maintainer "Maintainer <maintainer@email>"
